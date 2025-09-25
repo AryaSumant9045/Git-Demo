@@ -9,4 +9,5 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
 	    •	Passphrase optional hai (extra security ke liye).
 
     3.	SSH agent start karo aur key add karo
-    
+    eval "$(ssh-agent -s)"
+    ssh-add --apple-use-keychain ~/.ssh/id_ed25519
