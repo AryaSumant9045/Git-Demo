@@ -21,3 +21,5 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
 
     6.	Connection test karo
     ssh -T git@github.com
+
+    Agar response aaye:
