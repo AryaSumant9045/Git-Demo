@@ -40,3 +40,5 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
         sleep 60   # har 1 minute baad push karega
         done
     
+    9.  Script ko executable banao:
+        chmod +x auto_push.sh
