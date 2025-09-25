@@ -26,4 +26,5 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
     Hi AryaSumant! You've successfully authenticated...  
     Toh done✅
 
-    7. Ek script banao auto_push.sh naam ka:
+    7. Ek script banao auto_push.sh naam ka: 
+    nano auto_push.sh
