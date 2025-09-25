@@ -30,5 +30,13 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
     nano auto_push.sh
 
     8.  Uske andar ye code paste karo:
+        #!/bin/bash
 
+        while true
+        do
+        git add .
+        git commit -m "auto update $(date '+%Y-%m-%d %H:%M:%S')"
+        git push origin main
+        sleep 60   # har 1 minute baad push karega
+        done
     
