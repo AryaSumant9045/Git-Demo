@@ -18,3 +18,6 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
     5.	GitHub pe add karo
 	•	GitHub → Settings → SSH and GPG keys → New SSH Key.
 	•	Key paste kar do, koi naam de do 
+
+    6.	Connection test karo
+    ssh -T git@github.com
