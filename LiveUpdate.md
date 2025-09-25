@@ -28,3 +28,7 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
 
     7. Ek script banao auto_push.sh naam ka: 
     nano auto_push.sh
+
+    8.  Uske andar ye code paste karo:
+
+    
