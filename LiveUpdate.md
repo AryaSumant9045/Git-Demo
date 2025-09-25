@@ -14,3 +14,7 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
 
     4.	Public key copy karo
     pbcopy < ~/.ssh/id_ed25519.pub
+
+    5.	GitHub pe add karo
+	•	GitHub → Settings → SSH and GPG keys → New SSH Key.
+	•	Key paste kar do, koi naam de do 
