@@ -42,3 +42,6 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
     
     9.  Script ko executable banao:
         chmod +x auto_push.sh
+
+    10.  Script ko run karo:
+        
