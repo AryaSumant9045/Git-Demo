@@ -7,3 +7,6 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
     ssh-keygen -t ed25519 -C "studywithpwno.1@gmail.com"
     	•	Enter press karte jao (default path accept karne ke liye).
 	    •	Passphrase optional hai (extra security ke liye).
+
+    3.	SSH agent start karo aur key add karo
+    
