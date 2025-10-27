@@ -1,10 +1,10 @@
-    1: Confirm SSH key kaam kar raha hai
+🔹 Step 1: Confirm SSH key kaam kar raha hai
 
 Terminal me run kar:
 ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab key already hai.
 
 	2.	Nayi SSH key generate karo
-    ssh-keygen -t ed25519 -C "your.name@gmail.com"
+    ssh-keygen -t ed25519 -C "studywithpwno.1@gmail.com"
     	•	Enter press karte jao (default path accept karne ke liye).
 	    •	Passphrase optional hai (extra security ke liye).
 
@@ -23,7 +23,7 @@ ls -al ~/.ssh  #Agar files id_rsa.pub ya id_ed25519.pub dikh jaaye toh matlab ke
     ssh -T git@github.com
 
     Agar response aaye:
-    Hi Your Name! You've successfully authenticated...  
+    Hi AryaSumant! You've successfully authenticated...  
     Toh done✅
 
     7. Ek script banao auto_push.sh naam ka: 
