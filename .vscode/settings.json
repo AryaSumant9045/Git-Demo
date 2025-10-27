@@ -1,8 +1,0 @@
-{
-    "runOnSave.commands": [
-        {
-            "match": ".*",
-            "command": "~/Desktop/git-demo/auto_push.sh"
-        }
-    ]
-}
